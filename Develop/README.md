@@ -157,15 +157,25 @@ You are required to submit the following for review:
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
-Edits
+# Edits
 removed unnecessary slash & space
+
 changed title from website to Horiseon
+
 added a href to horiseon
+
 changed div to header
+
 changed div to section
+
 changed div to footer
+
 changed year from 2019 to 2022
+
 removed redundant code from style css
+
 changed header div to header nav
+
 added comments to my code to help track easier
+
 changed div to article
